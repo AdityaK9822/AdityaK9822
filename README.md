@@ -176,7 +176,7 @@ class SHERLOCKED:
 ## ◈ Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaK9822&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
 </p>
 
 ---
